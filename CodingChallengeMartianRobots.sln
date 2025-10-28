@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallengeMartianRobots", "CodingChallengeMartianRobots\CodingChallengeMartianRobots.csproj", "{EE4B5FDE-0FCA-47EF-9F8C-227F7F4C8F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4B5FDE-0FCA-47EF-9F8C-227F7F4C8F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4B5FDE-0FCA-47EF-9F8C-227F7F4C8F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4B5FDE-0FCA-47EF-9F8C-227F7F4C8F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4B5FDE-0FCA-47EF-9F8C-227F7F4C8F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11949C07-AB90-4A40-AEE7-0E0F2B9AD084}
+	EndGlobalSection
+EndGlobal
